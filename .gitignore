@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+dataset/
+trainer/
+
+attendance.csv
+users.csv
+
+.venv/
+venv/
